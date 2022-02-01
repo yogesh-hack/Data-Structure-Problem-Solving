@@ -1,6 +1,6 @@
 /*Kadane's Algorithm
-Medium Accuracy: 51.0% Submissions: 100k+ Points: 4
-Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
+Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) 
+which has the maximum sum and return its sum.
 
 
 Example 1:
