@@ -12,7 +12,14 @@
 // Input: nums = [1,3,5,6], target = 2
 // Output: 1
 
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+        return lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+    }
+};
 
+// ************ OR *************************
 
 class Solution {
 public:
