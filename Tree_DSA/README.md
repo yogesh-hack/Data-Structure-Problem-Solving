@@ -56,7 +56,9 @@ sfsf
 
 ## Type of Binary Tree
 A. Complete Bainary Tree
-B. 
+B. jgsfg
+C. ukeghukfg
+D. jwdfgukfg
 
 
 
