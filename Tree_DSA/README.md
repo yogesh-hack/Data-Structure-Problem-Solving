@@ -25,7 +25,21 @@ sfsf
 #jkhdfgjkf
 
 
+# Tree 
+- Collection of tree-Nodes
 
+1. Class TreeNode
+```
+    ↳ data
+    ↳ list <TreeNode> children
+```
+
+2. Binary tree -> atmost 2 children (0,1,2)
+```
+    ↳ data
+    ↳ leftchild
+    ↳ rightchild
+```
 
 
 
