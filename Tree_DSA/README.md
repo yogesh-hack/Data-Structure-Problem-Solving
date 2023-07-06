@@ -21,6 +21,7 @@ sfsf
 -jbashjf
 -khsfkjsdf
 -hjgsafjksf
+
 # Tree 
 - Collection of tree-Nodes
 
@@ -36,6 +37,7 @@ sfsf
     ↳ leftchild
     ↳ rightchild
 ```
+
 # Tree 
 - Collection of tree-Nodes
 
@@ -54,7 +56,7 @@ sfsf
 
 ## Type of Binary Tree
 A. Complete Bainary Tree
-
+B. 
 
 
 
