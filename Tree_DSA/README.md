@@ -21,10 +21,6 @@ sfsf
 -jbashjf
 -khsfkjsdf
 -hjgsafjksf
-
-#jkhdfgjkf
-
-
 # Tree 
 - Collection of tree-Nodes
 
@@ -39,8 +35,6 @@ sfsf
     ↳ data
     ↳ leftchild
     ↳ rightchild
-
-
 ```
 # Tree 
 - Collection of tree-Nodes
