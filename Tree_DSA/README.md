@@ -39,8 +39,27 @@ sfsf
     ↳ data
     ↳ leftchild
     ↳ rightchild
+
+
+```
+# Tree 
+- Collection of tree-Nodes
+
+1. Class TreeNode
+```
+    ↳ data
+    ↳ list <TreeNode> children
 ```
 
+2. Binary tree -> atmost 2 children (0,1,2)
+```
+    ↳ data
+    ↳ leftchild
+    ↳ rightchild
+```
+
+## Type of Binary Tree
+A. Complete Bainary Tree
 
 
 
